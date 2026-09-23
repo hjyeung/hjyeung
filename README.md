@@ -1,5 +1,5 @@
-### Hey!
+### Hi, I'm Jonathan 👋
 
-Thanks for stopping by. Don't hesitate to contact me at yeung.hoilong.jonathan@gmail.com
+I'm a backend software engineer at [Trellis Energy](https://trellisenergy.com/). I build scalable backend systems, optimize query performance, and develop internal AI tools to automate engineering workflows for our enterprise natural gas trading platform.
 
-_View my letter of recommendation **[here](Recommendation.pdf)**._
+_You can find my resume **[here](Resume.pdf)**._
